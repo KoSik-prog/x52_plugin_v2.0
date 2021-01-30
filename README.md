@@ -20,4 +20,4 @@ Have fun!!!
 
 Problems or ideas, write to me: kosik84@gmail.com
 
-![alt text](autostart_config.jpg)
+![alt text](x52pro_plugin_V1/main/autostart_config.jpg)
