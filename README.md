@@ -4,9 +4,10 @@ Saitek X52 PRO plugin for Microsoft Flight Simulator 2020 VER 2.0
 
 Your X52's LEDs will run dynamically with this plugin.
 
-There are two modes:
-- if the airplane is equipped with a retractable landing gear -> green labels
-- if the airplane is not equipped with a retractable landing gear -> blue labels
+what's new in ver 2.0: 
+- added the ability to configure LEDs
+
+Run x52_settings.exe to set up the LED's 
 
 
 You can use the autostart.bat file to run the plugin together with MSFS2020, but you have to edit it beforehand and insert the game path:
