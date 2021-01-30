@@ -2,10 +2,10 @@
 
 Saitek X52 PRO plugin for Microsoft Flight Simulator 2020 VER 2.0
 
-Your X52's LEDs will run dynamically with this plugin.
+Your X52 LED's will run dynamically with this plugin.
 
 what's new in ver 2.0: 
-- added the ability to configure LEDs
+- added the ability to configure LED's
 
 Run x52_settings.exe to set up the LED's 
 
