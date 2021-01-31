@@ -7,7 +7,7 @@ Your X52 LED's will run dynamically with this plugin.
 what's new in ver 2.0: 
 - added the ability to configure LED's
 
-Run x52_settings.exe to set up the LED's 
+Run saitek_settings.exe to set up the LED's 
 
 
 You can use the autostart.bat file to run the plugin together with MSFS2020, but you have to edit it beforehand and insert the game path:
