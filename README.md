@@ -10,6 +10,7 @@ what's new in ver 2.0:
 Run saitek_settings.exe to set up the LED's 
 
 
+
 You can use the autostart.bat file to run the plugin together with MSFS2020, but you have to edit it beforehand and insert the game path:
 - open msfs shortcut properties
 - copy Target
