@@ -1,15 +1,18 @@
 <root>
- <leds name="leds" isReadOnly="false">
-  <btn name="LED_FIRE" function="PARKING_BRAKE"/>
-  <btn name="LED_FIRE_A" function="AP_COURSE_COMBO"/>
-  <btn name="LED_FIRE_B" function="AUTOTHROTTLE_LOCK"/>
-  <btn name="LED_FIRE_D" function="REV_THRUST"/>
-  <btn name="LED_FIRE_E" function="AP_MASTER"/>
-  <btn name="LED_TOGGLE_1_2" function="FLAPS"/>
-  <btn name="LED_TOGGLE_3_4" function="GEAR"/>
-  <btn name="LED_TOGGLE_5_6" function="LANDING_LIGHTS"/>
-  <btn name="LED_POV_2" function="STALL_WARNING"/>
-  <btn name="LED_CLUTCH" function="OVERSPEED_WARNING"/>
-  <btn name="LED_THROTTLE" function="RPM_ENGINE_1"/>
+ <leds isReadOnly="false" name="leds">
+  <btn function="PARKING_BRAKE" name="LED_FIRE"/>
+  <btn function="AP_HDG_LOCK" name="LED_FIRE_A"/>
+  <btn function="OVERSPEED_WARNING" name="LED_FIRE_B"/>
+  <btn function="AP_COURSE_COMBO" name="LED_FIRE_D"/>
+  <btn function="AP_MASTER" name="LED_FIRE_E"/>
+  <btn function="FLAPS" name="LED_TOGGLE_1_2"/>
+  <btn function="GEAR" name="LED_TOGGLE_3_4"/>
+  <btn function="LANDING_LIGHTS" name="LED_TOGGLE_5_6"/>
+  <btn function="STALL_WARNING" name="LED_POV_2"/>
+  <btn function="AUTOTHROTTLE_LOCK" name="LED_CLUTCH"/>
+  <btn function="RPM_ENGINE_1" name="LED_THROTTLE"/>
+  <mfd function="SPD" name="0"/>
+  <mfd function="ALT" name="1"/>
+  <mfd function="V/S" name="2"/>
  </leds>
 </root>
